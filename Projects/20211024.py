@@ -1,2 +1,2 @@
 #open() 
-#file墜對象
+#file對象
